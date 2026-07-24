@@ -1,5 +1,3 @@
-<img align="right" src="assets/profile-photo.jpg" width="260" alt="Cohen profile photo">
-
 # Hi, I am Cohen
 
 I am a postdoctoral researcher working in condensed matter physics, ARPES, and computational materials research.
