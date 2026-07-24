@@ -1,16 +1,16 @@
 # Hi, I am Cohen
 
-I am a postdoctoral researcher working in condensed matter physics and quantum materials.
+I am a postdoctoral researcher working in condensed matter physics, ARPES, and computational materials research.
 
-My current interests include ARPES analysis, chiral phonons, electron-phonon physics, correlated materials, and AI-assisted research workflows for literature reading, theory development, and scientific writing.
+My current interests include electronic structure, spectroscopic signatures of quantum materials, first-principles calculations, and AI-assisted workflows for literature reading, research planning, and scientific writing.
 
 ## Research Interests
 
-- Condensed matter physics and quantum materials
+- Condensed matter physics
 - ARPES data analysis and interpretation
-- Chiral phonons and lattice angular momentum
-- Electron-phonon coupling, many-body physics, and emergent phases
-- DFT-assisted materials analysis with cost-aware workflows
+- Computational materials science and first-principles calculations
+- Electronic structure, electron-phonon coupling, and emergent phases
+- Chiral phonons and related lattice dynamics
 - AI-assisted literature learning, research planning, and manuscript development
 
 ## Current Focus
@@ -18,7 +18,7 @@ My current interests include ARPES analysis, chiral phonons, electron-phonon phy
 - Building a personal knowledge system for condensed matter literature
 - Organizing paper-reading workflows with DeepTutor, Codex, and custom research skills
 - Developing practical workflows for turning literature understanding into research ideas
-- Exploring theory-oriented projects where DFT is useful but not the only bottleneck
+- Exploring research problems that connect ARPES, materials computation, and physical interpretation
 
 ## Selected Repositories
 
@@ -29,7 +29,7 @@ My current interests include ARPES analysis, chiral phonons, electron-phonon phy
 
 ## Tools
 
-Python, Jupyter, GitHub, DFT workflows, ARPES analysis, DeepTutor, Codex, and AI-assisted research systems.
+Python, Jupyter, GitHub, ARPES analysis, DFT workflows, DeepTutor, Codex, and AI-assisted research systems.
 
 ## Research Style
 
